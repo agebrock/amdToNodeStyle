@@ -1,4 +1,4 @@
-# nodefy
+# amdToNodeStyle
 
 Esprima parser, to convert AMD modules into a node.js compatible format.
 
